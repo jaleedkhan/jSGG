@@ -1,0 +1,23 @@
+# ninja log v5
+142	24098	6397761819764909	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cpu/nms_cpu.obj	9e2e665f8cdc2b30
+144	24207	6397761819904937	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cpu/ROIAlign_cpu.obj	f596f1ae4264f6b9
+1	26644	6397761845600681	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/vision.obj	60b0fb17225ed2f
+150	32951	6397761908464628	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/ROIAlign_cuda.obj	b36c09f0511ebfbc
+10	33044	6397761908514639	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/deform_conv_cuda.obj	80783663674f8533
+140	33138	6397761908794711	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/deform_pool_cuda.obj	e3ec950951d27581
+159	33227	6397761909524847	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/ROIPool_cuda.obj	b15f6fb7bf1f68a2
+156	33319	6397761909754937	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/nms.obj	24da98798bebe2eb
+162	33394	6397761912095418	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/SigmoidFocalLoss_cuda.obj	9dfa9b35cbd25ef1
+153	33464	6397761912245451	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/deform_pool_kernel_cuda.obj	113971efb0e57a7a
+137	33533	6397761913295676	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/deform_conv_kernel_cuda.obj	69730ddc922ebf19
+9	17683	6397762198977070	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cpu/nms_cpu.obj	650b7c2b1929fd27
+14	17782	6397762199197117	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cpu/ROIAlign_cpu.obj	b77b8baed551b33d
+21	19591	6397762222722448	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/vision.obj	ad1e632f4e46a5e6
+36	29487	6397762321294349	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/SigmoidFocalLoss_cuda.obj	cd44b7b9bc4c5efa
+33	29584	6397762321394385	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/ROIAlign_cuda.obj	85c2502e91cb4c2c
+39	29670	6397762322324648	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/ROIPool_cuda.obj	ef33016b945ea3e8
+12	29755	6397762322644644	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/deform_pool_cuda.obj	5263f94cc756cd26
+26	29838	6397762323364820	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/nms.obj	843874a1827effd7
+29	29925	6397762324805127	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/deform_pool_kernel_cuda.obj	1ae2ca7daf04a798
+3	30017	6397762326065400	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/deform_conv_cuda.obj	fb874cf9e98b5f78
+6	30101	6397762326785557	C:/Users/danya/Scene-Graph-Benchmark.pytorch/build/temp.win-amd64-3.7/Release/Users/danya/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/deform_conv_kernel_cuda.obj	e96e10a5a38a6ceb
