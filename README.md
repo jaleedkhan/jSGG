@@ -8,4 +8,5 @@ The function 'im2scenegraph' provides a convenient way of using the scene graph 
 This repository has been built and tested on Python 3 (PyTorch 1.6 Python 3.6 GPU Optimized) kernel on a ml.g4dn.xlarge instance on Amazon Sagemaker, and also on Google Colab.
 
 Base paper: Tang et al. "Unbiased Scene Graph Generation from Biased Training", CVPR 2020. (https://arxiv.org/abs/2002.11949)
+
 Main repository: Scene Graph Benchmark in Pytorch (https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)
