@@ -10,7 +10,7 @@ class DatasetCatalog(object):
     def __init__(self, img):
         self.img = img
     
-    DATA_DIR = "SGG_Custom/datasets"
+    DATA_DIR = "datasets"
     DATASETS = {
         "coco_2017_train": {
             "img_dir": "coco/train2017",
